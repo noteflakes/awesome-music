@@ -10,9 +10,9 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Audio Editing](#audio-editing)
   * [Audio Libraries](#audio-libraries)
   * [Audio Tools](#audio-tools)
+  * [Free Music Scores](#music-scores)
   * [Music Notation](#music-notation)
   * [Music Programming](#music-programming)
-  * [Music Scores](#music-scores)
 * [Other Awesomeness](#other-awesomeness)
 
 ## Audio Editing
@@ -21,12 +21,25 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Audio Libraries
 
-* [audio.js](https://github.com/kolber/audiojs) - audiojs is a drop-in javascript library that allows HTML5's &lt;audio&gt; tag to be used anywhere.
+* [audio.js](https://github.com/kolber/audiojs) - audio.js is a drop-in javascript library that allows HTML5's &lt;audio&gt; tag to be used anywhere.
 * [howler.js](https://github.com/goldfire/howler.js) - A Javascript audio library for the modern web.
+* [midi.js](https://github.com/mudcube/MIDI.js) - a framework for creating web-based MIDI apps.
 
 ## Audio Tools
 
-* [Lame](http://lame.sourceforge.net/) - a high quality MP3 encoder.
+* [Lame](http://lame.sourceforge.net/) - a high quality, free and open-source MP3 encoder.
+
+## Free Music Scores
+
+* [Ciconia's music](https://github.com/ciconia/music) - A collection of mostly baroque music, lots of sacred works by J. S. Bach, coded in lilypond/ripple.
+* [CPDL](http://www.cpdl.org/) - The choral public domain library contains more than 20K free scores of vocal music.
+* [Éditions Nicolas Sceaux](https://github.com/nsceaux/nenuvar) - Baroque music scores (mainly French music), typeset using lilypond.
+* [IMSLP](http://imslp.org/) - The International Music Score Library Project is the largest collection of public domain scores and parts on the web.
+* [Mutopia](https://github.com/MutopiaProject/MutopiaProject) - Sheet music based on editions in the public domain.
+
+## MIDI Tools
+
+* [Timidity]()
 
 ## Music Notation
 
@@ -43,11 +56,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Alda](https://github.com/alda-lang/alda) - A music programming language for musicians.
 * [Chuck](https://github.com/ccrma/chuck) - Strongly-timed, concurrent, and on-the-fly music programming language.
-
-## Music Scores
-
-* [Ciconia's music](https://github.com/ciconia/music) - Mostly baroque music, lots of sacred works by J. S. Bach.
-* [Mutopia](https://github.com/MutopiaProject/MutopiaProject) - Sheet music based on editions in the public domain.
+* [Music Suite](http://music-suite.github.io/docs/ref/) - A language for generalized music notation and theory, based on Haskell.
 
 # Other Awesomeness
 
