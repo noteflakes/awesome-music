@@ -23,11 +23,12 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [audio.js](https://github.com/kolber/audiojs) - audio.js is a drop-in javascript library that allows HTML5's &lt;audio&gt; tag to be used anywhere.
 * [howler.js](https://github.com/goldfire/howler.js) - A Javascript audio library for the modern web.
-* [midi.js](https://github.com/mudcube/MIDI.js) - a framework for creating web-based MIDI apps.
+* [midi.js](https://github.com/mudcube/MIDI.js) - A framework for creating web-based MIDI apps.
 
 ## Audio Tools
 
-* [Lame](http://lame.sourceforge.net/) - a high quality, free and open-source MP3 encoder.
+* [Lame](http://lame.sourceforge.net/) - A high quality, free and open-source MP3 encoder.
+* [Musikernel](https://github.com/j3ffhubb/musikernel) - A uturistic audio production platform (hardware support, APIs, hosts, plugins and more)
 
 ## Free Music Scores
 
@@ -39,7 +40,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## MIDI Tools
 
-* [Timidity]()
+* [Timidity](http://timidity.sourceforge.net/) - TiMidity++ is an open-source command line synthesizer that plays MIDI files.
 
 ## Music Notation
 
