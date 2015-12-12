@@ -28,7 +28,9 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Audio Tools
 
 * [Lame](http://lame.sourceforge.net/) - A high quality, free and open-source MP3 encoder.
+* [lltag](http://home.gna.org/lltag/) - Automatic command-line mp3/ogg/flac file tagger and renamer.
 * [Musikernel](https://github.com/j3ffhubb/musikernel) - A uturistic audio production platform (hardware support, APIs, hosts, plugins and more)
+* [SoX](http://sox.sourceforge.net/) - A free open-source command line utility for playing, converting and manipulating audio files.
 
 ## Free Music Scores
 
@@ -44,7 +46,9 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Music Notation
 
+* [Denemo](http://www.denemo.org/) - a free music notation editor based on Lilypond.
 * [Frescobaldi](https://github.com/wbsoft/frescobaldi) - A free Lilypond sheet music editor.
+* [LibMEI](https://github.com/DDMAL/libmei) - LibMEI is a C++ library for reading and writing MEI files.
 * [Lilypond](http://lilypond.org/) - Free, open-source music engraving program, devoted to producing the highest-quality sheet music possible.
 * [Lydown](https://github.com/ciconia/lydown) - A modern language for music notation, based on Lilypond.
 * [MuseScore](https://github.com/musescore/MuseScore) - Free open-source music notation and composition software.
@@ -57,7 +61,11 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Alda](https://github.com/alda-lang/alda) - A music programming language for musicians.
 * [Chuck](https://github.com/ccrma/chuck) - Strongly-timed, concurrent, and on-the-fly music programming language.
+* [Common Music](http://commonmusic.sourceforge.net/) - An open source music composition system.
 * [Music Suite](http://music-suite.github.io/docs/ref/) - A language for generalized music notation and theory, based on Haskell.
+* [Overtone](https://github.com/overtone/overtone/) - Overtone is an Open Source toolkit for designing synthesizers and collaborating with music.
+* [Platonic Music Engine](http://www.platonicmusicengine.com/) - An open-source music generation framework written in Lua.
+* [SuperCollider](http://supercollider.github.io/) - SuperCollider is a programming language for real time audio synthesis and algorithmic composition.
 
 # Other Awesomeness
 
