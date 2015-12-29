@@ -24,6 +24,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [audio.js](https://github.com/kolber/audiojs) - audio.js is a drop-in javascript library that allows HTML5's &lt;audio&gt; tag to be used anywhere.
 * [howler.js](https://github.com/goldfire/howler.js) - A Javascript audio library for the modern web.
 * [midi.js](https://github.com/mudcube/MIDI.js) - A framework for creating web-based MIDI apps.
+* [Soundpipe](https://github.com/PaulBatchelor/Soundpipe) - A lightweight DSP library written in C.
 
 ## Audio Tools
 
@@ -62,10 +63,13 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [Alda](https://github.com/alda-lang/alda) - A music programming language for musicians.
 * [Chuck](https://github.com/ccrma/chuck) - Strongly-timed, concurrent, and on-the-fly music programming language.
+* [CoffeeCollider](https://github.com/mohayonao/CoffeeCollider) - A language for real time audio synthesis and algorithmic composition in HTML5. "Write CoffeeScript, and be processed as SuperCollider."
 * [Common Music](http://commonmusic.sourceforge.net/) - An open source music composition system.
+* [Csound](http://csound.github.io/) - A user-programmable and user-extensible sound processing language and software synthesizer.
 * [Music Suite](http://music-suite.github.io/docs/ref/) - A language for generalized music notation and theory, based on Haskell.
 * [Overtone](https://github.com/overtone/overtone/) - Overtone is an Open Source toolkit for designing synthesizers and collaborating with music.
 * [Platonic Music Engine](http://www.platonicmusicengine.com/) - An open-source music generation framework written in Lua.
+* [Sporth](https://github.com/PaulBatchelor/Sporth) - A small stack based audio language.
 * [SuperCollider](http://supercollider.github.io/) - SuperCollider is a programming language for real time audio synthesis and algorithmic composition.
 
 # Other Awesomeness
