@@ -23,6 +23,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 * [audio.js](https://github.com/kolber/audiojs) - audio.js is a drop-in javascript library that allows HTML5's &lt;audio&gt; tag to be used anywhere.
 * [howler.js](https://github.com/goldfire/howler.js) - A Javascript audio library for the modern web.
+* [JSyn](http://www.softsynth.com/jsyn/) - An audio synthesis software API for Java.
 * [midi.js](https://github.com/mudcube/MIDI.js) - A framework for creating web-based MIDI apps.
 * [Soundpipe](https://github.com/PaulBatchelor/Soundpipe) - A lightweight DSP library written in C.
 
