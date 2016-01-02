@@ -14,6 +14,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Music Notation](#music-notation)
   * [Music Programming](#music-programming)
   * [Music Theory](#music-theory)
+  * [Standards](#standards)
 * [Other Awesomeness](#other-awesomeness)
 
 ## Audio Editing
@@ -25,7 +26,10 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [audio.js](https://github.com/kolber/audiojs) - audio.js is a drop-in javascript library that allows HTML5's &lt;audio&gt; tag to be used anywhere.
 * [howler.js](https://github.com/goldfire/howler.js) - A Javascript audio library for the modern web.
 * [JSyn](http://www.softsynth.com/jsyn/) - An audio synthesis software API for Java.
+* [Librosa](http://bmcfee.github.io/librosa/) - A python package for music and audio analysis, providing the building blocks necessary to create music information retrieval systems.
 * [midi.js](https://github.com/mudcube/MIDI.js) - A framework for creating web-based MIDI apps.
+* [PortAudio](http://www.portaudio.com/) - A free, cross-platform, open-source, audio I/O library.
+* [RustAudio](https://github.com/RustAudio) - An aggregate of free and useful Audio, DSP and music libraries written in Rust.
 * [Soundpipe](https://github.com/PaulBatchelor/Soundpipe) - A lightweight DSP library written in C.
 
 ## Audio Tools
@@ -50,13 +54,14 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Music Notation
 
-* [Denemo](http://www.denemo.org/) - a free music notation editor based on Lilypond.
+* [Abjad](http://projectabjad.org/) - a Python API for Formalized Score Control, based on Lilypond.
+* [Denemo](http://www.denemo.org/) - A free music notation editor based on Lilypond.
 * [Frescobaldi](https://github.com/wbsoft/frescobaldi) - A free Lilypond sheet music editor.
 * [LibMEI](https://github.com/DDMAL/libmei) - LibMEI is a C++ library for reading and writing MEI files.
 * [Lilypond](http://lilypond.org/) - Free, open-source music engraving program, devoted to producing the highest-quality sheet music possible.
 * [Lydown](https://github.com/ciconia/lydown) - A modern language for music notation, based on Lilypond.
 * [MuseScore](https://github.com/musescore/MuseScore) - Free open-source music notation and composition software.
-* [OpenLilyLib](https://github.com/openlilylib/snipets/) - LilyPond tools - snippets, templates, and extensions.
+* [OpenLilyLib](https://github.com/openlilylib/snippets/) - LilyPond tools - snippets, templates, and extensions.
 * [Python-ly](https://pypi.python.org/pypi/python-ly) - Tool and library for manipulating LilyPond files.
 * [Ripple](https://github.com/ciconia/ripple/) - DRY for Lilypond - generate scores and parts with minimal fuss.
 * [Verovio](https://github.com/rism-ch/verovio) - A library and a toolkit for engraving MEI music notation into SVG.
@@ -69,6 +74,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [CoffeeCollider](https://github.com/mohayonao/CoffeeCollider) - A language for real time audio synthesis and algorithmic composition in HTML5. "Write CoffeeScript, and be processed as SuperCollider."
 * [Common Music](http://commonmusic.sourceforge.net/) - An open source music composition system.
 * [Csound](http://csound.github.io/) - A user-programmable and user-extensible sound processing language and software synthesizer.
+* [IanniX](https://github.com/iannix/IanniX) - A graphical open-source sequencer, based on Iannis Xenakis works, for digital art.
 * [Music Suite](http://music-suite.github.io/docs/ref/) - A language for generalized music notation and theory, based on Haskell.
 * [Overtone](https://github.com/overtone/overtone/) - Overtone is an Open Source toolkit for designing synthesizers and collaborating with music.
 * [Platonic Music Engine](http://www.platonicmusicengine.com/) - An open-source music generation framework written in Lua.
@@ -78,6 +84,12 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Music Theory
 
 * [OpenMusicTheory](http://openmusictheory.com/) - A growing, online "textbook" for music theory and aural skills.
+
+## Standards
+
+* [MEI (Music Encoding Initiative)](http://music-encoding.org/) - An open-source effort to define a system for encoding musical documents in a machine-readable structure.
+* [MusicXML](http://www.musicxml.com/) - The standard open format for exchanging digital sheet music.
+* [SMuFL (Standard Music Font Layout)](http://www.smufl.org/) - A specification for mapping music symbols to Unicode for use in music fonts.
 
 # Other Awesomeness
 
