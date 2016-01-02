@@ -13,6 +13,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Free Music Scores](#music-scores)
   * [Music Notation](#music-notation)
   * [Music Programming](#music-programming)
+  * [Music Theory](#music-theory)
 * [Other Awesomeness](#other-awesomeness)
 
 ## Audio Editing
@@ -56,6 +57,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Lydown](https://github.com/ciconia/lydown) - A modern language for music notation, based on Lilypond.
 * [MuseScore](https://github.com/musescore/MuseScore) - Free open-source music notation and composition software.
 * [OpenLilyLib](https://github.com/openlilylib/snipets/) - LilyPond tools - snippets, templates, and extensions.
+* [Python-ly](https://pypi.python.org/pypi/python-ly) - Tool and library for manipulating LilyPond files.
 * [Ripple](https://github.com/ciconia/ripple/) - DRY for Lilypond - generate scores and parts with minimal fuss.
 * [Verovio](https://github.com/rism-ch/verovio) - A library and a toolkit for engraving MEI music notation into SVG.
 * [Vexflow](https://github.com/0xfe/vexflow) - A JavaScript library for rendering music notation and guitar tablature.
@@ -72,6 +74,10 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Platonic Music Engine](http://www.platonicmusicengine.com/) - An open-source music generation framework written in Lua.
 * [Sporth](https://github.com/PaulBatchelor/Sporth) - A small stack based audio language.
 * [SuperCollider](http://supercollider.github.io/) - SuperCollider is a programming language for real time audio synthesis and algorithmic composition.
+
+## Music Theory
+
+* [OpenMusicTheory](http://openmusictheory.com/) - A growing, online "textbook" for music theory and aural skills.
 
 # Other Awesomeness
 
