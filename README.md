@@ -34,6 +34,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Audio Tools
 
+* [beets](http://beets.radbox.org/) - A powerful command-line music organizer and manipulator.
 * [Koel](https://github.com/phanan/koel) - An open-source personal audio streaming server.
 * [Lame](http://lame.sourceforge.net/) - A high quality, free and open-source MP3 encoder.
 * [lltag](http://home.gna.org/lltag/) - Automatic command-line mp3/ogg/flac file tagger and renamer.
