@@ -60,6 +60,8 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Frescobaldi](https://github.com/wbsoft/frescobaldi) - A free Lilypond sheet music editor.
 * [LibMEI](https://github.com/DDMAL/libmei) - LibMEI is a C++ library for reading and writing MEI files.
 * [Lilypond](http://lilypond.org/) - Free, open-source music engraving program, devoted to producing the highest-quality sheet music possible.
+* [Lilybin](http://lilybin.com/) - An open sourcle web-based lilypond editor.
+* [Lilyvm](https://github.com/olsonpm/lilyvm) - Lilypond version manager.
 * [Lydown](https://github.com/ciconia/lydown) - A modern language for music notation, based on Lilypond.
 * [MuseScore](https://github.com/musescore/MuseScore) - Free open-source music notation and composition software.
 * [OpenLilyLib](https://github.com/openlilylib/snippets/) - LilyPond tools - snippets, templates, and extensions.
