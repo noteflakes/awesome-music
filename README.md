@@ -58,6 +58,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Abjad](http://projectabjad.org/) - a Python API for Formalized Score Control, based on Lilypond.
 * [Denemo](http://www.denemo.org/) - A free music notation editor based on Lilypond.
 * [Frescobaldi](https://github.com/wbsoft/frescobaldi) - A free Lilypond sheet music editor.
+* [Inknote](https://github.com/MichalPaszkiewicz/inknote) - Free, open source, browser based music notation and composition software
 * [LibMEI](https://github.com/DDMAL/libmei) - LibMEI is a C++ library for reading and writing MEI files.
 * [Lilypond](http://lilypond.org/) - Free, open-source music engraving program, devoted to producing the highest-quality sheet music possible.
 * [Lilybin](http://lilybin.com/) - An open sourcle web-based lilypond editor.
