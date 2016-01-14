@@ -64,6 +64,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Lilybin](http://lilybin.com/) - An open sourcle web-based lilypond editor.
 * [Lilyvm](https://github.com/olsonpm/lilyvm) - Lilypond version manager.
 * [Lydown](https://github.com/ciconia/lydown) - A modern language for music notation, based on Lilypond.
+* [Lyp](https://github.com/noteflakes/lyp) - The lilypond package manager - install packages and manage multiple versions of lilypond.
 * [MuseScore](https://github.com/musescore/MuseScore) - Free open-source music notation and composition software.
 * [OpenLilyLib](https://github.com/openlilylib/snippets/) - LilyPond tools - snippets, templates, and extensions.
 * [Python-ly](https://pypi.python.org/pypi/python-ly) - Tool and library for manipulating LilyPond files.
