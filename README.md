@@ -52,6 +52,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 ## MIDI Tools
 
 * [Timidity](http://timidity.sourceforge.net/) - TiMidity++ is an open-source command line synthesizer that plays MIDI files.
+* [SimpleSynth](http://notahat.com/simplesynth/) - An open-source small and and fast synthesizer.
 
 ## Music Notation
 
@@ -86,6 +87,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Platonic Music Engine](http://www.platonicmusicengine.com/) - An open-source music generation framework written in Lua.
 * [Sporth](https://github.com/PaulBatchelor/Sporth) - A small stack based audio language.
 * [SuperCollider](http://supercollider.github.io/) - SuperCollider is a programming language for real time audio synthesis and algorithmic composition.
+* [Serpent](http://www.cs.cmu.edu/~music/serpent/doc/serpent.htm) - A programming language designed for real-time systems, especially interactive multimedia systems.
 
 ## Music Theory
 
