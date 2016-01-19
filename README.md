@@ -80,6 +80,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Common Music](http://commonmusic.sourceforge.net/) - An open source music composition system.
 * [Csound](http://csound.github.io/) - A user-programmable and user-extensible sound processing language and software synthesizer.
 * [IanniX](https://github.com/iannix/IanniX) - A graphical open-source sequencer, based on Iannis Xenakis works, for digital art.
+* [Leipzig](https://github.com/ctford/leipzig) - A composition library for Overtone.
 * [Music Suite](http://music-suite.github.io/docs/ref/) - A language for generalized music notation and theory, based on Haskell.
 * [Overtone](https://github.com/overtone/overtone/) - Overtone is an Open Source toolkit for designing synthesizers and collaborating with music.
 * [Platonic Music Engine](http://www.platonicmusicengine.com/) - An open-source music generation framework written in Lua.
