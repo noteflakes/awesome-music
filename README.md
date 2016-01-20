@@ -88,6 +88,8 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Sporth](https://github.com/PaulBatchelor/Sporth) - A small stack based audio language.
 * [SuperCollider](http://supercollider.github.io/) - SuperCollider is a programming language for real time audio synthesis and algorithmic composition.
 * [Serpent](http://www.cs.cmu.edu/~music/serpent/doc/serpent.htm) - A programming language designed for real-time systems, especially interactive multimedia systems.
+* [Nyquist](https://www.cs.cmu.edu/~music/nyquist/) - A sound synthesis and composition language.
+
 
 ## Music Theory
 
