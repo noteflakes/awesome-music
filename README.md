@@ -82,6 +82,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [IanniX](https://github.com/iannix/IanniX) - A graphical open-source sequencer, based on Iannis Xenakis works, for digital art.
 * [Leipzig](https://github.com/ctford/leipzig) - A composition library for Overtone.
 * [Music Suite](http://music-suite.github.io/docs/ref/) - A language for generalized music notation and theory, based on Haskell.
+* [Nyquist](https://www.cs.cmu.edu/~music/nyquist/) - A sound synthesis and composition language.
 * [Overtone](https://github.com/overtone/overtone/) - Overtone is an Open Source toolkit for designing synthesizers and collaborating with music.
 * [Platonic Music Engine](http://www.platonicmusicengine.com/) - An open-source music generation framework written in Lua.
 * [Sporth](https://github.com/PaulBatchelor/Sporth) - A small stack based audio language.
