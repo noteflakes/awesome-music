@@ -88,6 +88,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Nyquist](https://www.cs.cmu.edu/~music/nyquist/) - A sound synthesis and composition language.
 * [Overtone](https://github.com/overtone/overtone/) - Overtone is an Open Source toolkit for designing synthesizers and collaborating with music.
 * [Platonic Music Engine](http://www.platonicmusicengine.com/) - An open-source music generation framework written in Lua.
+* [Serpent](https://www.cs.cmu.edu/~music/aura/serpent-info.htm) - A real-time language for music and animation.
 * [Sporth](https://github.com/PaulBatchelor/Sporth) - A small stack based audio language.
 * [SuperCollider](http://supercollider.github.io/) - SuperCollider is a programming language for real time audio synthesis and algorithmic composition.
 
