@@ -43,11 +43,13 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 
 ## Free Music Scores
 
-* [Ciconia's music](https://github.com/ciconia/music) - A collection of mostly baroque music, lots of sacred works by J. S. Bach, coded in lilypond/ripple.
+* [cellist/Lilypond-Sheet-Music](https://github.com/cellist/Lilypond-Sheet-Music) - Collection of music typeset with lilypond (mostly chamber music and music for cello).
+* [ciconia/music](https://github.com/ciconia/music) - A collection of mostly baroque music, lots of sacred works by J. S. Bach, coded in lilypond/ripple.
 * [CPDL](http://www.cpdl.org/) - The choral public domain library contains more than 20K free scores of vocal music.
 * [Éditions Nicolas Sceaux](https://github.com/nsceaux/nenuvar) - Baroque music scores (mainly French music), typeset using lilypond.
 * [IMSLP](http://imslp.org/) - The International Music Score Library Project is the largest collection of public domain scores and parts on the web.
 * [Mutopia](https://github.com/MutopiaProject/MutopiaProject) - Sheet music based on editions in the public domain.
+* [wbsoft/lilymusic](https://github.com/wbsoft/lilymusic) - Beautiful LilyPond scores under free licenses.
 
 ## MIDI Tools
 
@@ -69,6 +71,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [OpenLilyLib](https://github.com/openlilylib/snippets/) - LilyPond tools - snippets, templates, and extensions.
 * [Python-ly](https://pypi.python.org/pypi/python-ly) - Tool and library for manipulating LilyPond files.
 * [Ripple](https://github.com/ciconia/ripple/) - DRY for Lilypond - generate scores and parts with minimal fuss.
+* [Tunefl](https://github.com/tiredpixel/tunefl) - LilyPond mini-score engraving and sharing service for musicians.
 * [Verovio](https://github.com/rism-ch/verovio) - A library and a toolkit for engraving MEI music notation into SVG.
 * [Vexflow](https://github.com/0xfe/vexflow) - A JavaScript library for rendering music notation and guitar tablature.
 
