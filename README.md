@@ -63,8 +63,9 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Guido](http://guidolib.sourceforge.net/) - a generic, portable library and API for the graphical rendering of musical scores.
 * [Inknote](https://github.com/MichalPaszkiewicz/inknote) - free, open source, browser based music notation and composition software.
 * [LibMEI](https://github.com/DDMAL/libmei) - a C++ library for reading and writing MEI files.
-* [Lilypond](http://lilypond.org/) - free, open-source music engraving program, devoted to producing the highest-quality sheet music possible.
 * [Lilybin](http://lilybin.com/) - an open sourcle web-based lilypond editor.
+* [Lilypond](http://lilypond.org/) - free, open-source music engraving program, devoted to producing the highest-quality sheet music possible.
+* [Lilypond Snippet Repository](http://lsr.di.unimi.it/) - an online database of Lilypond snippets ideas, features and hacks.
 * [Lilyvm](https://github.com/olsonpm/lilyvm) - Lilypond version manager.
 * [Lydown](https://github.com/ciconia/lydown) - a modern language for music notation, based on Lilypond.
 * [Lyp](https://github.com/noteflakes/lyp) - the lilypond package manager - install packages and manage multiple versions of lilypond.
