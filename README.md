@@ -11,6 +11,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
   * [Audio Libraries](#audio-libraries)
   * [Audio Tools](#audio-tools)
   * [Free Music Scores](#free-music-scores)
+  * [MIDI Tools & Libraries](#midi-tools-libraries)
   * [Music Notation](#music-notation)
   * [Music Programming](#music-programming)
   * [Music Theory](#music-theory)
@@ -51,8 +52,9 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Mutopia](https://github.com/MutopiaProject/MutopiaProject) - sheet music based on editions in the public domain.
 * [wbsoft/lilymusic](https://github.com/wbsoft/lilymusic) - beautiful LilyPond scores under free licenses.
 
-## MIDI Tools
+## MIDI Tools & Libraries
 
+* [Midifile](http://midifile.sapp.org/) - C++ library for parsing Standard MIDI Files.
 * [Timidity](http://timidity.sourceforge.net/) - an open-source command line synthesizer that plays MIDI files.
 
 ## Music Notation
