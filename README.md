@@ -17,6 +17,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
   * [Music Theory](#music-theory)
   * [Standards](#standards)
 * [Other Awesomeness](#other-awesomeness)
+  * [Related lists](#related-lists)
 
 ## Audio Editing
 
@@ -113,6 +114,10 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [SMuFL (Standard Music Font Layout)](http://www.smufl.org/) - a specification for mapping music symbols to Unicode for use in music fonts.
 
 # Other Awesomeness
+
+## Related lists
+
+* [Awesome Music Production](https://github.com/adius/awesome-music-production) - A curated list of software and resources to create music.
 
 Other amazingly awesome lists can be found in the [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) list.
 
