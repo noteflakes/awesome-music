@@ -30,6 +30,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [JSyn](http://www.softsynth.com/jsyn/) - an audio synthesis software API for Java.
 * [Librosa](http://bmcfee.github.io/librosa/) - a python package for music and audio analysis, providing the building blocks necessary to create music information retrieval systems.
 * [midi.js](https://github.com/mudcube/MIDI.js) - a framework for creating web-based MIDI apps.
+* [mxml](https://github.com/venturemedia/mxml) - MusicXML parsing and layout library.
 * [PortAudio](http://www.portaudio.com/) - a free, cross-platform, open-source, audio I/O library.
 * [RustAudio](https://github.com/RustAudio) - an aggregate of free and useful Audio, DSP and music libraries written in Rust.
 * [Soundpipe](https://github.com/PaulBatchelor/Soundpipe) - a lightweight DSP library written in C.
