@@ -75,6 +75,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Lydown](https://github.com/ciconia/lydown) - a modern language for music notation, based on Lilypond.
 * [Lyp](https://github.com/noteflakes/lyp) - the lilypond package manager - install packages and manage multiple versions of lilypond.
 * [MuseScore](https://github.com/musescore/MuseScore) - free open-source music notation and composition software.
+* [MusicKit](https://github.com/venturemedia/musickit) - Music sheet rendering for iOS and OSX.
 * [NOTATIO](http://notat.io/) - a forum devoted to the practice of music notation.
 * [OpenLilyLib](https://github.com/openlilylib/snippets/) - LilyPond tools - snippets, templates, and extensions.
 * [Python-ly](https://pypi.python.org/pypi/python-ly) - a tool and library for manipulating LilyPond files.
