@@ -22,6 +22,8 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 ## Audio Editing
 
 * [Audacity](https://github.com/audacity/audacity) - a free, cross-platform digital audio editor.
+* [Ardour](http://ardour.org/) - a free and open source DAW with an emphasis on audio recording.
+* [LMMS](https://lmms.io/) - a free and open source DAW with an emphasis on beatmaking.
 
 ## Audio Libraries
 
@@ -103,6 +105,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Nyquist](https://www.cs.cmu.edu/~music/nyquist/) - a sound synthesis and composition language.
 * [Overtone](https://github.com/overtone/overtone/) - an Open Source toolkit for designing synthesizers and collaborating with music.
 * [Platonic Music Engine](http://www.platonicmusicengine.com/) - an open-source music generation framework written in Lua.
+* [Pure Data](http://puredata.info/) - a visual programming language for audio and other multimedia.
 * [Sonic Pi](http://sonic-pi.net/) - a live coding synth with an emphasis on educational use.
 * [Sporth](https://github.com/PaulBatchelor/Sporth) - a small stack based audio language.
 * [SuperCollider](http://supercollider.github.io/) - a programming language for real time audio synthesis and algorithmic composition.
