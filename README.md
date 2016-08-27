@@ -22,8 +22,8 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 ## Audio Editing
 
 * [Audacity](https://github.com/audacity/audacity) - a free, cross-platform digital audio editor.
-* [Ardour](http://ardour.org/) - a free and open source DAW with an emphasis on audio recording.
-* [LMMS](https://lmms.io/) - a free and open source DAW with an emphasis on beatmaking.
+* [Ardour](http://ardour.org/) - a cross-platform digital audio workstation emphasizing audio recording.
+* [LMMS](https://lmms.io/) - another cross-platform digital audio workstation, more oriented towards making beats.
 
 ## Audio Libraries
 
