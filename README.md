@@ -128,6 +128,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 ## Related lists
 
 * [Awesome Music Production](https://github.com/adius/awesome-music-production) - A curated list of software and resources to create music.
+* [Awesome Web Audio](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
 
 Other amazingly awesome lists can be found in the [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) list.
 
