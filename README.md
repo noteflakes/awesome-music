@@ -40,19 +40,11 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 ## Audio Tools
 
 * [Beets](http://beets.radbox.org/) - a powerful command-line music organizer and manipulator.
-* [cyanrip](https://github.com/atomnuker/cyanrip) - rips and encodes standard audio CDs with the least effort required from user. Cross platform.
-* [fre:ac](https://github.com/enzo1982/freac) - free audio converter. It supports audio CD ripping and tag editing.
-* [Jack](https://github.com/jack-cli-cd-ripper/jack) - command-line CD ripper.
-* [K3b](https://github.com/KDE/k3b) - is a full-featured CD/DVD/Blu-ray burning and ripping application.
 * [Koel](https://github.com/phanan/koel) - an open-source personal audio streaming server.
 * [Lame](http://lame.sourceforge.net/) - a high quality, free and open-source MP3 encoder.
-* [lltag](https://github.com/bgoglin/lltag) - automatic command-line mp3/ogg/flac file tagger and renamer.
+* [lltag](http://home.gna.org/lltag/) - automatic command-line mp3/ogg/flac file tagger and renamer.
 * [Musikernel](https://github.com/j3ffhubb/musikernel) - a futuristic audio production platform (hardware support, APIs, hosts, plugins and more)
-* [Rubyripper](https://github.com/bleskodev/rubyripper) - is a secure digital audio extraction application ("cd ripper") for Unix-like operating systems.
 * [SoX](http://sox.sourceforge.net/) - a free open-source command line utility for playing, converting and manipulating audio files.
-* [split2flac](https://github.com/ftrvxmtrx/split2flac) - split flac/ape/wv/wav + cue sheet into separate tracks
-* [Whipper](https://github.com/JoeLametta/whipper) - Python CD-DA ripper preferring accuracy over speed.
-* [X Audio Copy](https://github.com/giorgiofranceschi/xaudiocopy) - GTK and GNOME application for ripping CD-Audio and encoding in lossy and lossless audio formats.
 
 ## Free Music Scores
 
@@ -80,7 +72,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [i-score](http://www.i-score.org) - a software for interactive music notation, with DAW features.
 * [Inknote](https://github.com/MichalPaszkiewicz/inknote) - free, open source, browser based music notation and composition software.
 * [LibMEI](https://github.com/DDMAL/libmei) - a C++ library for reading and writing MEI files.
-* [Lilybin](http://lilybin.com/) - an open sourcle web-based lilypond editor.
+* [Lilybin](http://lilybin.com/) - an open source web-based Lilypond editor.
 * [Lilypond](http://lilypond.org/) - free, open-source music engraving program, devoted to producing the highest-quality sheet music possible.
 * [Lilypond cook book](https://github.com/noteflakes/lilypond-cookbook/wiki/) - tips & tricks for getting the most out of lilypond.
 * [Lilypond Snippet Repository](http://lsr.di.unimi.it/) - an online database of Lilypond snippets ideas, features and hacks.
@@ -109,7 +101,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Csound](http://csound.github.io/) - a user-programmable and user-extensible sound processing language and software synthesizer.
 * [Faust](http://faust.grame.fr/about/) - a functional programming language specifically designed for real-time signal processing and synthesis.
 * [IanniX](https://github.com/iannix/IanniX) - a graphical open-source sequencer, based on Iannis Xenakis works, for digital art.
-* [Inscore](http://inscore.sourceforge.net/) - an environmnent for the design of interactive, augmented music scores.
+* [Inscore](http://inscore.sourceforge.net/) - an environment for the design of interactive, augmented music scores.
 * [Leipzig](https://github.com/ctford/leipzig) - a composition library for Overtone.
 * [music21](http://web.mit.edu/music21/) - A Toolkit for Computational Musicology.
 * [Music Suite](http://music-suite.github.io/docs/ref/) - a language for generalized music notation and theory, based on Haskell.
@@ -126,6 +118,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 ## Music Theory
 
 * [OpenMusicTheory](http://openmusictheory.com/) - a growing, online "textbook" for music theory and aural skills.
+* [Four Score and More](https://fourscoreandmore.org/) - Tailored music theory exercises based on scores.
 
 ## Standards
 
