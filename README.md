@@ -126,6 +126,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 ## Music Theory
 
 * [OpenMusicTheory](http://openmusictheory.com/) - a growing, online "textbook" for music theory and aural skills.
+* [Four Score and More](https://fourscoreandmore.org/) - Tailored music theory exercises based on scores.
 
 ## Standards
 
