@@ -123,10 +123,12 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [SuperCollider](http://supercollider.github.io/) - a programming language for real time audio synthesis and algorithmic composition.
 * [Tidal](http://tidal.lurk.org/) - a language built on Haskell for live coding patterns.
 
-## Music Theory
+## Music Theory Teaching
 
-* [OpenMusicTheory](http://openmusictheory.com/) - a growing, online "textbook" for music theory and aural skills.
+* [Artusi](https://www.artusi.xyz) - Interactive music theory exercises.
 * [Four Score and More](https://fourscoreandmore.org/) - Tailored music theory exercises based on scores.
+* [musictheory.net](https://www.musictheory.net) - Lessons and exercises
+* [OpenMusicTheory](http://openmusictheory.com/) - a growing, online "textbook" for music theory and aural skills.
 
 ## Standards
 
