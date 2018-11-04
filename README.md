@@ -107,7 +107,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [CoffeeCollider](https://github.com/mohayonao/CoffeeCollider) - a language for real time audio synthesis and algorithmic composition in HTML5. "Write CoffeeScript, and be processed as SuperCollider."
 * [Common Music](http://commonmusic.sourceforge.net/) - an open source music composition system.
 * [Csound](http://csound.github.io/) - a user-programmable and user-extensible sound processing language and software synthesizer.
-* [Faust](http://faust.grame.fr/about/) - a functional programming language specifically designed for real-time signal processing and synthesis.
+* [Faust](http://faust.grame.fr/) - a functional programming language specifically designed for real-time signal processing and synthesis.
 * [IanniX](https://github.com/iannix/IanniX) - a graphical open-source sequencer, based on Iannis Xenakis works, for digital art.
 * [Inscore](http://inscore.sourceforge.net/) - an environmnent for the design of interactive, augmented music scores.
 * [Leipzig](https://github.com/ctford/leipzig) - a composition library for Overtone.
