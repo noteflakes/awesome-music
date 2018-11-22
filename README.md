@@ -80,7 +80,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [i-score](http://www.i-score.org) - a software for interactive music notation, with DAW features.
 * [Inknote](https://github.com/MichalPaszkiewicz/inknote) - free, open source, browser based music notation and composition software.
 * [LibMEI](https://github.com/DDMAL/libmei) - a C++ library for reading and writing MEI files.
-* [Lilybin](http://lilybin.com/) - an open sourcle web-based lilypond editor.
+* [Lilybin](http://lilybin.com/) - an open source web-based LilyPond editor.
 * [Lilypond](http://lilypond.org/) - free, open-source music engraving program, devoted to producing the highest-quality sheet music possible.
 * [Lilypond cook book](https://github.com/noteflakes/lilypond-cookbook/wiki/) - tips & tricks for getting the most out of lilypond.
 * [Lilypond Snippet Repository](http://lsr.di.unimi.it/) - an online database of Lilypond snippets ideas, features and hacks.
