@@ -115,6 +115,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Music Suite](http://music-suite.github.io/docs/ref/) - a language for generalized music notation and theory, based on Haskell.
 * [Nyquist](https://www.cs.cmu.edu/~music/nyquist/) - a sound synthesis and composition language.
 * [OpenMusic](http://repmus.ircam.fr/openmusic/home) - a visual programming language based on Lisp.
+* [Orca](https://github.com/hundredrabbits/Orca) - live programming environment for music.
 * [Overtone](https://github.com/overtone/overtone/) - an Open Source toolkit for designing synthesizers and collaborating with music.
 * [Platonic Music Engine](http://www.platonicmusicengine.com/) - an open-source music generation framework written in Lua.
 * [Pure Data](http://puredata.info/) - a visual programming language for audio and other multimedia.
