@@ -113,6 +113,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [IanniX](https://github.com/iannix/IanniX) - a graphical open-source sequencer, based on Iannis Xenakis works, for digital art.
 * [Inscore](http://inscore.sourceforge.net/) - an environmnent for the design of interactive, augmented music scores.
 * [Leipzig](https://github.com/ctford/leipzig) - a composition library for Overtone.
+* [Midica](https://github.com/truj/midica) - MIDI programming language with decompiler and player, supports karaoke.
 * [music21](http://web.mit.edu/music21/) - A Toolkit for Computational Musicology.
 * [Music Suite](http://music-suite.github.io/docs/ref/) - a language for generalized music notation and theory, based on Haskell.
 * [Nyquist](https://www.cs.cmu.edu/~music/nyquist/) - a sound synthesis and composition language.
