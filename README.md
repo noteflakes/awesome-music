@@ -40,6 +40,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 ## Audio Tools
 
 * [Beets](http://beets.io/) - a powerful command-line music organizer and manipulator.
+* [Cecilia](https://github.com/belangeo/cecilia5) - a CSound-based graphical environment for music and signal processing.
 * [cyanrip](https://github.com/atomnuker/cyanrip) - rips and encodes standard audio CDs with the least effort required from user. Cross platform.
 * [fre:ac](https://github.com/enzo1982/freac) - free audio converter. It supports audio CD ripping and tag editing.
 * [Jack](https://github.com/jack-cli-cd-ripper/jack) - command-line CD ripper.
