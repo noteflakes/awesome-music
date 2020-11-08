@@ -35,7 +35,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [mxml](https://github.com/venturemedia/mxml) - MusicXML parsing and layout library.
 * [PortAudio](http://www.portaudio.com/) - a free, cross-platform, open-source, audio I/O library.
 * [RustAudio](https://github.com/RustAudio) - an aggregate of free and useful Audio, DSP and music libraries written in Rust.
-* [Soundpipe](https://github.com/PaulBatchelor/Soundpipe) - a lightweight DSP library written in C.
+* [Soundpipe](https://pbat.ch/proj/soundpipe.html) - a lightweight DSP library written in C.
 
 ## Audio Tools
 
@@ -125,7 +125,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Platonic Music Engine](http://www.platonicmusicengine.com/) - an open-source music generation framework written in Lua.
 * [Pure Data](http://puredata.info/) - a visual programming language for audio and other multimedia.
 * [Sonic Pi](http://sonic-pi.net/) - a live coding synth with an emphasis on educational use.
-* [Sporth](https://github.com/PaulBatchelor/Sporth) - a small stack based audio language.
+* [Sporth](https://pbat.ch/proj/sporth.html) - a small stack based audio language.
 * [SuperCollider](http://supercollider.github.io/) - a programming language for real time audio synthesis and algorithmic composition.
 * [Tidal](http://tidal.lurk.org/) - a language built on Haskell for live coding patterns.
 
