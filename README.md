@@ -130,7 +130,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Sonic Pi](http://sonic-pi.net/) - a live coding synth with an emphasis on educational use.
 * [Sporth](https://pbat.ch/proj/sporth.html) - a small stack based audio language.
 * [SuperCollider](http://supercollider.github.io/) - a programming language for real time audio synthesis and algorithmic composition.
-* [Tidal](http://tidal.lurk.org/) - a language built on Haskell for live coding patterns.
+* [Tidal](https://tidalcycles.org/) - a language built on Haskell for live coding patterns.
 
 ## Music Theory Teaching
 
