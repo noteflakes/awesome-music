@@ -104,6 +104,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Tunefl](https://github.com/tiredpixel/tunefl) - LilyPond mini-score engraving and sharing service for musicians.
 * [Verovio](https://github.com/rism-ch/verovio) - a library and a toolkit for engraving MEI music notation into SVG.
 * [Vexflow](https://github.com/0xfe/vexflow) - a JavaScript library for rendering music notation and guitar tablature.
+* [Unison](https://unisonofficial.com/html/user-documentation.html?title=unison-editor) - Proprietary software for creating music score with words.
 
 ## Music Programming
 
@@ -131,6 +132,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Sporth](https://pbat.ch/proj/sporth.html) - a small stack based audio language.
 * [SuperCollider](http://supercollider.github.io/) - a programming language for real time audio synthesis and algorithmic composition.
 * [Tidal](http://tidal.lurk.org/) - a language built on Haskell for live coding patterns.
+* [Unilang](https://unisonofficial.com/html/user-documentation.html?title=unison-editor) - Domain specific language used in Unison.
 
 ## Music Theory Teaching
 
