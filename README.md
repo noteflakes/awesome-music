@@ -102,9 +102,9 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Scorelib](http://scorelib.sapp.org/) - a C++ library for parsing SCORE data files.
 * [Tbon](https://github.com/Michael-F-Ellis/tbon) - Typographic Beat-Oriented Notation for music.
 * [Tunefl](https://github.com/tiredpixel/tunefl) - LilyPond mini-score engraving and sharing service for musicians.
+* [Unison](https://unisonofficial.com/html/user-documentation.html?title=unison-editor) - Proprietary software for creating music score with words.
 * [Verovio](https://github.com/rism-ch/verovio) - a library and a toolkit for engraving MEI music notation into SVG.
 * [Vexflow](https://github.com/0xfe/vexflow) - a JavaScript library for rendering music notation and guitar tablature.
-* [Unison](https://unisonofficial.com/html/user-documentation.html?title=unison-editor) - Proprietary software for creating music score with words.
 
 ## Music Programming
 
