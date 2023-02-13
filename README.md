@@ -28,6 +28,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 ## Audio Libraries
 
 * [audio.js](https://github.com/kolber/audiojs) - audio.js is a drop-in javascript library that allows HTML5's &lt;audio&gt; tag to be used anywhere.
+* [audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
 * [chord-mark](https://github.com/no-chris/chord-mark) - reference implementation of ChordMark, a text notation format for lyrics, chords and rhythm.
 * [howler.js](https://github.com/goldfire/howler.js) - a Javascript audio library for the modern web.
 * [JSyn](http://www.softsynth.com/jsyn/) - an audio synthesis software API for Java.
