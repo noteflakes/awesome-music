@@ -24,6 +24,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Audacity](https://github.com/audacity/audacity) - a free, cross-platform digital audio editor.
 * [Ardour](http://ardour.org/) - a cross-platform digital audio workstation emphasizing audio recording.
 * [LMMS](https://lmms.io/) - another cross-platform digital audio workstation, more oriented towards making beats.
+* [Stargate DAW](https://github.com/stargatedaw/stargate/) - A cross-platform, all-in-one digital audio workstation and plugin suite, optimized for EDM production.
 
 ## Audio Libraries
 
