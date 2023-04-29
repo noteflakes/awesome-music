@@ -25,6 +25,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Ardour](http://ardour.org/) - a cross-platform digital audio workstation emphasizing audio recording.
 * [LMMS](https://lmms.io/) - another cross-platform digital audio workstation, more oriented towards making beats.
 * [Stargate DAW](https://github.com/stargatedaw/stargate/) - A cross-platform, all-in-one digital audio workstation and plugin suite, optimized for EDM production.
+* [TuneFlow](https://tuneflow.com/) - a next-gen DAW that helps you generate melody, beats, or a whole song, while still being able to edit them.
 
 ## Audio Libraries
 
@@ -139,6 +140,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Sporth](https://pbat.ch/proj/sporth.html) - a small stack based audio language.
 * [SuperCollider](http://supercollider.github.io/) - a programming language for real time audio synthesis and algorithmic composition.
 * [Tidal](https://tidalcycles.org/) - a language built on Haskell for live coding patterns.
+* [tuneflow-py](https://github.com/tuneflow/tuneflow-py/) - python plugin SDK for the next-gen DAW, that allows you to program your music algorithms & AI models into all stages of music production
 * [Unilang](https://unisonofficial.com/html/user-documentation.html?title=unison-editor) - Domain specific language used in Unison.
 
 ## Music Theory Teaching
