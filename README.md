@@ -75,6 +75,8 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 
 * [JJazzLab-X](https://github.com/jjazzboss/JJazzLab-X) - a complete Midi-based framework for automatic backing tracks generation.
 * [Midifile](http://midifile.sapp.org/) - C++ library for parsing Standard MIDI Files.
+* [Polyrhythmix](http://github.com/dredozubov/polyrhythmix) - MIDI drums
+  generator, designed for polyrhythmic parts
 * [Timidity](http://timidity.sourceforge.net/) - an open-source command line synthesizer that plays MIDI files.
 
 ## Music Notation
