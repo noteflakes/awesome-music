@@ -142,6 +142,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Sporth](https://pbat.ch/proj/sporth.html) - a small stack based audio language.
 * [SuperCollider](http://supercollider.github.io/) - a programming language for real time audio synthesis and algorithmic composition.
 * [Tidal](https://tidalcycles.org/) - a language built on Haskell for live coding patterns.
+* [Topos](https://topos.raphaelforment.fr) - a web based live coding environment (WebAudio / MIDI)
 * [tuneflow-py](https://github.com/tuneflow/tuneflow-py/) - python plugin SDK for the next-gen DAW, that allows you to program your music algorithms & AI models into all stages of music production
 * [Unilang](https://unisonofficial.com/html/user-documentation.html?title=unison-editor) - Domain specific language used in Unison.
 
