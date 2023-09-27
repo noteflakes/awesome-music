@@ -129,6 +129,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Midica](https://github.com/truj/midica) - MIDI programming language with decompiler and player, supports karaoke.
 * [music21](http://web.mit.edu/music21/) - A Toolkit for Computational Musicology.
 * [Music Suite](http://music-suite.github.io/docs/ref/) - a language for generalized music notation and theory, based on Haskell.
+* [mutwo](https://mutwo-org.github.io/) - a Python library for composition that outputs notation, MIDI or audio files and that provides a generalized model to describe time-based structures.
 * [Nyquist](https://www.cs.cmu.edu/~music/nyquist/) - a sound synthesis and composition language.
 * [OpenMusic](http://repmus.ircam.fr/openmusic/home) - a visual programming language based on Lisp.
 * [Orca](https://github.com/hundredrabbits/Orca) - live programming environment for music.
