@@ -136,6 +136,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Overtone](https://github.com/overtone/overtone/) - an Open Source toolkit for designing synthesizers and collaborating with music.
 * [Platonic Music Engine](http://www.platonicmusicengine.com/) - an open-source music generation framework written in Lua.
 * [Pure Data](http://puredata.info/) - a visual programming language for audio and other multimedia.
+* [pyo](https://belangeo.github.io/pyo/) - a Python module to help digital signal processing script creation.
 * [py-modular](http://py-modular.readthedocs.io/) - a modular and experimental programming environment with basic DSP routines in python.
 * [Sardine](https://github.com/Bubobubobubobubo/sardine) - a music live coding library for Python 3.10+ (MIDI/OSC/SuperCollider).
 * [slippery chicken](https://github.com/mdedwards/slippery-chicken) - a Common Lisp environment for composition building on CLM, CMN, CM, MusicXML and Lilypond for score, sound file, and/or MIDI file outputs.
