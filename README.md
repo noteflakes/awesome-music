@@ -143,6 +143,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [slippery chicken](https://github.com/mdedwards/slippery-chicken) - a Common Lisp environment for composition building on CLM, CMN, CM, MusicXML and Lilypond for score, sound file, and/or MIDI file outputs.
 * [Sonic Pi](http://sonic-pi.net/) - a live coding synth with an emphasis on educational use.
 * [Sporth](https://pbat.ch/proj/sporth.html) - a small stack based audio language.
+* [Strudel](https://strudel.tidalcycles.org/) - an experiment in making a language built on javascript for live coding patterns using web technologies.
 * [SuperCollider](http://supercollider.github.io/) - a programming language for real time audio synthesis and algorithmic composition.
 * [Tidal](https://tidalcycles.org/) - a language built on Haskell for live coding patterns.
 * [Topos](https://topos.raphaelforment.fr) - a web based live coding environment (WebAudio / MIDI)
