@@ -104,6 +104,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Lyp](https://github.com/noteflakes/lyp) - the Lilypond swiss army knife - easily install packages, manage multiple versions of Lilypond, and other tools for power users.
 * [MuseScore](https://github.com/musescore/MuseScore) - free open-source music notation and composition software.
 * [MusicKit](https://github.com/venturemedia/musickit) - Music sheet rendering for iOS and OSX.
+* [neoscore](https://neoscore.org/) - python library for notating music in a graphics-first paradigm.
 * [NOTATIO](http://notat.io/) - a forum devoted to the practice of music notation.
 * [OpenLilyLib](https://github.com/openlilylib/snippets/) - LilyPond tools - snippets, templates, and extensions.
 * [OpenSheetMusicDisplay](https://github.com/opensheetmusicdisplay/opensheetmusicdisplay) - Typescript library for rendering MusicXML in the browser.
