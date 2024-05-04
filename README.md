@@ -159,6 +159,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [musictheory.net](https://www.musictheory.net) - Lessons and exercises
 * [OpenMusicTheory](http://openmusictheory.com/) - a growing, online "textbook" for music theory and aural skills.
 * [Theorytab](https://www.hooktheory.com/theorytab) - a database of songs with their chord functions.
+* [Music Theory for Musicians] (https://www.music-theory-for-musicians.com/) - music theory lessons that can be more accessible for some that are starting out. 
 
 ## Standards
 
