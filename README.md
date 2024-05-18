@@ -24,6 +24,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Audacity](https://github.com/audacity/audacity) - a free, cross-platform digital audio editor.
 * [Ardour](http://ardour.org/) - a cross-platform digital audio workstation emphasizing audio recording.
 * [LMMS](https://lmms.io/) - another cross-platform digital audio workstation, more oriented towards making beats.
+* [OpenUtau](https://github.com/stakira/openutau/) - A free, cross-platform singing voice synthesis framework.
 * [snd](https://sourceforge.net/projects/snd/) - Snd is a sound editor modelled loosely after Emacs.
 * [Stargate DAW](https://github.com/stargatedaw/stargate/) - A cross-platform, all-in-one digital audio workstation and plugin suite, optimized for EDM production.
 * [TuneFlow](https://tuneflow.com/) - a next-gen DAW that helps you generate melody, beats, or a whole song, while still being able to edit them.
