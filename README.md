@@ -65,6 +65,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 
 ## Free Music Scores
 
+* [bayanguru](https://bayanguru.org/) - engraving and publishing system that produces high quality sheet music for bayan in PDF.
 * [cellist/Lilypond-Sheet-Music](https://github.com/cellist/Lilypond-Sheet-Music) - a collection of music typeset with lilypond (mostly chamber music and music for cello).
 * [ciconia/music](https://github.com/ciconia/music) - a collection of mostly baroque music, lots of sacred works by J. S. Bach, coded in lilypond/ripple.
 * [CPDL](http://www.cpdl.org/) - the choral public domain library contains more than 20K free scores of vocal music.
