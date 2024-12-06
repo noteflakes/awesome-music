@@ -95,6 +95,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Guido](http://guidolib.sourceforge.net/) - a generic, portable library and API for the graphical rendering of musical scores.
 * [Hacklily](https://www.hacklily.org) - online LilyPond-based sheet music editor (with optional GitHub integration).
 * [Inknote](https://github.com/MichalPaszkiewicz/inknote) - free, open source, browser based music notation and composition software.
+* [JotChord](https://www.jotchord.com) - an online, text-based editor for making PDF-formatted Nashville Number System song charts.
 * [LibMEI](https://github.com/DDMAL/libmei) - a C++ library for reading and writing MEI files.
 * [Lilybin](http://lilybin.com/) - an open source web-based LilyPond editor.
 * [Lilypond](http://lilypond.org/) - free, open-source music engraving program, devoted to producing the highest-quality sheet music possible.
