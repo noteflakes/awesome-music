@@ -75,6 +75,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Lavender Blue Open-Scores](https://github.com/madrisan/open-scores) - open scores for piano encoded using lilypond.
 * [Mutopia](https://github.com/MutopiaProject/MutopiaProject) - sheet music based on editions in the public domain.
 * [wbsoft/lilymusic](https://github.com/wbsoft/lilymusic) - beautiful LilyPond scores under free licenses.
+* [VectorScore](https://github.com/DrakeB1234/VectorScore) - Lightweight, SVG-based music notation library for TypeScript under MIT license.
 
 ## MIDI Tools & Libraries
 
