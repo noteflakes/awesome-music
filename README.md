@@ -28,6 +28,8 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [snd](https://sourceforge.net/projects/snd/) - Snd is a sound editor modelled loosely after Emacs.
 * [Stargate DAW](https://github.com/stargatedaw/stargate/) - A cross-platform, all-in-one digital audio workstation and plugin suite, optimized for EDM production.
 * [TuneFlow](https://tuneflow.com/) - a next-gen DAW that helps you generate melody, beats, or a whole song, while still being able to edit them.
+* [CompressYogi](https://github.com/AppsYogi-com/ComposeYogi) - The open-source Ableton-style music composer for the web.
+
 
 ## Audio Libraries
 
