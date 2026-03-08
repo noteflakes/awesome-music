@@ -45,6 +45,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 
 ## Audio Tools
 
+* [Audio Transcode Watcher](https://github.com/GeiserX/audio-transcode-watcher) - Automated multi-format audio transcoding service with real-time file watching, supporting ALAC, AAC, MP3, Opus, FLAC, and WAV.
 * [Auralytics](https://github.com/WengYiNing/Auralytics) - an open-source personal Spotify analytics tool.
 * [Beets](http://beets.io/) - a powerful command-line music organizer and manipulator.
 * [Cecilia](https://github.com/belangeo/cecilia5) - a Pyo-based graphical environment for music and signal processing.
