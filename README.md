@@ -59,6 +59,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [MusicBrainz](https://musicbrainz.org) - Open Encyclopedia for Music information and Metadata, providing a unique ID for everything
 * [Musikernel](https://github.com/j3ffhubb/musikernel) - a futuristic audio production platform (hardware support, APIs, hosts, plugins and more)
 * [Rubyripper](https://github.com/bleskodev/rubyripper) - is a secure digital audio extraction application ("cd ripper") for Unix-like operating systems.
+* [slskd-transform](https://github.com/GeiserX/slskd-transform) - bulk upgrade your music library from lossy to lossless FLAC via Soulseek and SLSKD.
 * [SoX](http://sox.sourceforge.net/) - a free open-source command line utility for playing, converting and manipulating audio files.
 * [split2flac](https://github.com/ftrvxmtrx/split2flac) - split flac/ape/wv/wav + cue sheet into separate tracks
 * [Whipper](https://github.com/JoeLametta/whipper) - Python CD-DA ripper preferring accuracy over speed.
