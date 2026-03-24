@@ -46,6 +46,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 ## Audio Tools
 
 * [Auralytics](https://github.com/WengYiNing/Auralytics) - an open-source personal Spotify analytics tool.
+  * [Amplitron](https://github.com/sudip-mondal-2002/Amplitron) - a free, MIT-licensed, cross-platform guitar amp simulator built in C++17 with PortAudio, SDL2, and Dear ImGui. Features 9 DSP effects and ~1.3ms ultra-low latency.
 * [Beets](http://beets.io/) - a powerful command-line music organizer and manipulator.
 * [Cecilia](https://github.com/belangeo/cecilia5) - a Pyo-based graphical environment for music and signal processing.
 * [cyanrip](https://github.com/atomnuker/cyanrip) - rips and encodes standard audio CDs with the least effort required from user. Cross platform.
