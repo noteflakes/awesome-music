@@ -63,6 +63,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [split2flac](https://github.com/ftrvxmtrx/split2flac) - split flac/ape/wv/wav + cue sheet into separate tracks
 * [Whipper](https://github.com/JoeLametta/whipper) - Python CD-DA ripper preferring accuracy over speed.
 * [X Audio Copy](https://github.com/giorgiofranceschi/xaudiocopy) - GTK and GNOME application for ripping CD-Audio and encoding in lossy and lossless audio formats.
+* [SongFromLink](https://songfromlink) - Identify background music from TikTok, YouTube Shorts, Instagram Reels, X, and Facebook Reels video links
 
 ## Free Music Scores
 
