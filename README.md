@@ -58,6 +58,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [matchering](https://github.com/sergree/matchering) - сontainerized web application and library for automated reference audio mastering.
 * [MusicBrainz](https://musicbrainz.org) - Open Encyclopedia for Music information and Metadata, providing a unique ID for everything
 * [Musikernel](https://github.com/j3ffhubb/musikernel) - a futuristic audio production platform (hardware support, APIs, hosts, plugins and more)
+* [voicetoinstrument.com](https://voicetoinstrument.com) - AI-powered tool to convert voice into instrumental tracks for music production.
 * [Rubyripper](https://github.com/bleskodev/rubyripper) - is a secure digital audio extraction application ("cd ripper") for Unix-like operating systems.
 * [SoX](http://sox.sourceforge.net/) - a free open-source command line utility for playing, converting and manipulating audio files.
 * [split2flac](https://github.com/ftrvxmtrx/split2flac) - split flac/ape/wv/wav + cue sheet into separate tracks
