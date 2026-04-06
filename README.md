@@ -50,6 +50,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Cecilia](https://github.com/belangeo/cecilia5) - a Pyo-based graphical environment for music and signal processing.
 * [cyanrip](https://github.com/atomnuker/cyanrip) - rips and encodes standard audio CDs with the least effort required from user. Cross platform.
 * [fre:ac](https://github.com/enzo1982/freac) - free audio converter. It supports audio CD ripping and tag editing.
+* [FreeMusicLab.ai](https://freemusiclab.ai) - Free AI-generated music library with 2,000+ royalty-free tracks and developer API.
 * [Jack](https://github.com/jack-cli-cd-ripper/jack) - command-line CD ripper.
 * [K3b](https://github.com/KDE/k3b) - is a full-featured CD/DVD/Blu-ray burning and ripping application.
 * [Koel](https://github.com/phanan/koel) - an open-source personal audio streaming server.
