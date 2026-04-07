@@ -186,6 +186,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Awesome sheet music](https://github.com/adius/awesome-sheet-music) - A curated list of awesome sheet music software, libraries and resources.
 * [Awesome WebAudio](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
 
+* [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
 Other amazingly awesome lists can be found in the [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) list.
 
 ## License
