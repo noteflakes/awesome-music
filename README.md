@@ -71,6 +71,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [ciconia/music](https://github.com/ciconia/music) - a collection of mostly baroque music, lots of sacred works by J. S. Bach, coded in lilypond/ripple.
 * [CPDL](http://www.cpdl.org/) - the choral public domain library contains more than 20K free scores of vocal music.
 * [Éditions Nicolas Sceaux](https://github.com/nsceaux/nenuvar) - baroque music scores (mainly French music), typeset using lilypond.
+* [Octave](https://github.com/mohsen7778/octave-music-player) - Free, serverless Spotify alternative built with vanilla JS.
 * [IMSLP](http://imslp.org/) - the International Music Score Library Project is the largest collection of public domain scores and parts on the web.
 * [Lavender Blue Open-Scores](https://github.com/madrisan/open-scores) - open scores for piano encoded using lilypond.
 * [Mutopia](https://github.com/MutopiaProject/MutopiaProject) - sheet music based on editions in the public domain.
