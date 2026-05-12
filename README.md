@@ -45,6 +45,8 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 
 ## Audio Tools
 
+* [FreeEQ8](https://github.com/GareBear99/FreeEQ8) - Free, open-source 8-band parametric EQ plugin built with JUCE, featuring linear phase, dynamic EQ, match EQ, M/S processing, oversampling, and VST3/AU support.
+
 * [Auralytics](https://github.com/WengYiNing/Auralytics) - an open-source personal Spotify analytics tool.
 * [Beets](http://beets.io/) - a powerful command-line music organizer and manipulator.
 * [Cecilia](https://github.com/belangeo/cecilia5) - a Pyo-based graphical environment for music and signal processing.
