@@ -81,8 +81,10 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [JJazzLab-X](https://github.com/jjazzboss/JJazzLab-X) - a complete Midi-based framework for automatic backing tracks generation.
 * [Midifile](http://midifile.sapp.org/) - C++ library for parsing Standard MIDI Files.
 * [mido](https://github.com/mido/mido) - Python library for working with MIDI messages and ports.
+* [mididings](https://github.com/mididings/mididings) - A Python-based MIDI router and processor for Linux and macOS
 * [Polyrhythmix](http://github.com/dredozubov/polyrhythmix) - MIDI drums
   generator, designed for polyrhythmic parts
+* [stagedings](https://github.com/mididings/stagedings) - An UI and API for mididings
 * [Timidity](http://timidity.sourceforge.net/) - an open-source command line synthesizer that plays MIDI files.
 
 ## Music Notation
