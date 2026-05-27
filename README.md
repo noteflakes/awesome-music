@@ -167,7 +167,8 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [musictheory.net](https://www.musictheory.net) - Lessons and exercises
 * [OpenMusicTheory](http://openmusictheory.com/) - a growing, online "textbook" for music theory and aural skills.
 * [Theorytab](https://www.hooktheory.com/theorytab) - a database of songs with their chord functions.
-
+* [FaChords Guitar](https://www.fachords.com/) - interactive tools to understand how chords, scales and progressions connect together.
+* 
 ## Standards
 
 * [MEI (Music Encoding Initiative)](http://music-encoding.org/) - an open-source effort to define a system for encoding musical documents in a machine-readable structure.
