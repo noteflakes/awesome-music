@@ -52,6 +52,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [fre:ac](https://github.com/enzo1982/freac) - free audio converter. It supports audio CD ripping and tag editing.
 * [Jack](https://github.com/jack-cli-cd-ripper/jack) - command-line CD ripper.
 * [K3b](https://github.com/KDE/k3b) - is a full-featured CD/DVD/Blu-ray burning and ripping application.
+* [Kima](https://github.com/Chevron7Locked/kima-hub) - a self-hosted music streaming server with ML-powered audio analysis, vibe-based discovery, and Subsonic API support.
 * [Koel](https://github.com/phanan/koel) - an open-source personal audio streaming server.
 * [Lame](http://lame.sourceforge.net/) - a high quality, free and open-source MP3 encoder.
 * [lltag](https://github.com/bgoglin/lltag) - automatic command-line mp3/ogg/flac file tagger and renamer.
