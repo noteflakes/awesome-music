@@ -78,7 +78,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 
 ## MIDI Tools & Libraries
 
-* [JJazzLab-X](https://github.com/jjazzboss/JJazzLab-X) - a complete Midi-based framework for automatic backing tracks generation.
+* [JJazzLab](https://github.com/jjazzboss/JJazzLab) - a complete Midi-based framework for automatic backing tracks generation.
 * [Midifile](http://midifile.sapp.org/) - C++ library for parsing Standard MIDI Files.
 * [mido](https://github.com/mido/mido) - Python library for working with MIDI messages and ports.
 * [Polyrhythmix](http://github.com/dredozubov/polyrhythmix) - MIDI drums
