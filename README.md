@@ -166,6 +166,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [musictheory.net](https://www.musictheory.net) - Lessons and exercises
 * [OpenMusicTheory](http://openmusictheory.com/) - a growing, online "textbook" for music theory and aural skills.
 * [Theorytab](https://www.hooktheory.com/theorytab) - a database of songs with their chord functions.
+* [PracticeLoop](https://teal-semifreddo-cad4ad.netlify.app/) - Free web tool for slowing down and looping YouTube videos for music practice, with progressive speed training and built-in metronome.
 
 ## Standards
 
