@@ -91,6 +91,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [ChordMark](https://chordmark.netlify.app/) - a text-based notation format for lyrics, chords and rhythm.
 * [Denemo](http://www.denemo.org/) - a free music notation editor based on Lilypond.
 * [Digital Music Stand](https://github.com/PatWie/digitalmusicstand) - a free web app for displaying sheet music.
+* [DomiSol](https://domisol.app) - free web-based score editor for tonic solfa (d r m f s l t) and jianpu (1 2 3 4 5 6 7) notation.
 * [Jan Angermüller's music fonts page](http://elbsound.studio/music_fonts.php) - A listing and visual comparison of different music fonts.
 * [Frescobaldi](https://github.com/wbsoft/frescobaldi) - a free Lilypond sheet music editor.
 * [Guido](http://guidolib.sourceforge.net/) - a generic, portable library and API for the graphical rendering of musical scores.
