@@ -177,6 +177,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 
 ## Related lists
 
+* [Awesome AI Music Generation](https://github.com/Curated-Awesome-Lists/awesome-ai-music-generation) - A curated list of AI music generation tools and resources.
 * [Awesome Audio DSP](https://github.com/BillyDM/awesome-audio-dsp) - A curated list of audio DSP and plugin development resources.
 * [Awesome Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
 * [Awesome Music Listening](https://github.com/ybayle/awesome-music-listening) - Awesome list of websites dedicated to listening to music.
