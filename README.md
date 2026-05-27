@@ -34,6 +34,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [audio.js](https://github.com/kolber/audiojs) - audio.js is a drop-in javascript library that allows HTML5's &lt;audio&gt; tag to be used anywhere.
 * [audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
 * [chord-mark](https://github.com/no-chris/chord-mark) - reference implementation of ChordMark, a text notation format for lyrics, chords and rhythm.
+* [FreqBlog Music API](https://freqblog.com/) - a hosted music analysis API returning BPM, key, energy, loudness and time signature for tracks by name and artist.
 * [howler.js](https://github.com/goldfire/howler.js) - a Javascript audio library for the modern web.
 * [JSyn](http://www.softsynth.com/jsyn/) - an audio synthesis software API for Java.
 * [Librosa](https://github.com/librosa/librosa) - a python package for music and audio analysis, providing the building blocks necessary to create music information retrieval systems.
