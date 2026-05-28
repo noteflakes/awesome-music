@@ -80,6 +80,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 
 * [Gingoduino](https://github.com/sauloverissimo/gingoduino) - music theory engine for embedded systems with MIDI 1.0/2.0 UMP support.
 * [JJazzLab](https://github.com/jjazzboss/JJazzLab) - a complete Midi-based framework for automatic backing tracks generation.
+* [midi2cpp](https://github.com/sauloverissimo/midi2cpp) - first C++ MIDI 2.0 USB device/host/bridge engine for embedded DIY boards, MIT licensed.
 * [Midifile](http://midifile.sapp.org/) - C++ library for parsing Standard MIDI Files.
 * [Midimonster](https://github.com/cbdevnet/midimonster) - universal control and translation tool for most show control protocols.
 * [mido](https://github.com/mido/mido) - Python library for working with MIDI messages and ports.
