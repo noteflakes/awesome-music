@@ -48,6 +48,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Auralytics](https://github.com/WengYiNing/Auralytics) - an open-source personal Spotify analytics tool.
 * [Beets](http://beets.io/) - a powerful command-line music organizer and manipulator.
 * [Cecilia](https://github.com/belangeo/cecilia5) - a Pyo-based graphical environment for music and signal processing.
+* [Chorushive](https://chorushive.com/) - real-time Spotify lyric display with 8 visual themes and WebGL animated backgrounds.
 * [cyanrip](https://github.com/atomnuker/cyanrip) - rips and encodes standard audio CDs with the least effort required from user. Cross platform.
 * [fre:ac](https://github.com/enzo1982/freac) - free audio converter. It supports audio CD ripping and tag editing.
 * [Jack](https://github.com/jack-cli-cd-ripper/jack) - command-line CD ripper.
