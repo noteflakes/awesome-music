@@ -167,6 +167,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 
 * [Artusi](https://www.artusi.xyz) - Interactive music theory exercises.
 * [Four Score and More](https://fourscoreandmore.org/) - Tailored music theory exercises based on scores.
+* [Music Practice](https://music.raeduslabs.com) - Free, open-source practice app for piano, guitar and drums with a prerequisite skill tree, ear training and spaced review.
 * [musictheory.net](https://www.musictheory.net) - Lessons and exercises
 * [OpenMusicTheory](http://openmusictheory.com/) - a growing, online "textbook" for music theory and aural skills.
 * [Theorytab](https://www.hooktheory.com/theorytab) - a database of songs with their chord functions.
