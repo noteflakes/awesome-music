@@ -58,6 +58,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [lltag](https://github.com/bgoglin/lltag) - automatic command-line mp3/ogg/flac file tagger and renamer.
 * [matchering](https://github.com/sergree/matchering) - сontainerized web application and library for automated reference audio mastering.
 * [MusicBrainz](https://musicbrainz.org) - Open Encyclopedia for Music information and Metadata, providing a unique ID for everything
+* [Pakku](https://danielalves96.github.io/pakku-vst/) - Free, open-source multiband transient shaper for macOS and Windows (VST3/AU).
 * [Rubyripper](https://github.com/bleskodev/rubyripper) - is a secure digital audio extraction application ("cd ripper") for Unix-like operating systems.
 * [SoX](http://sox.sourceforge.net/) - a free open-source command line utility for playing, converting and manipulating audio files.
 * [split2flac](https://github.com/ftrvxmtrx/split2flac) - split flac/ape/wv/wav + cue sheet into separate tracks
