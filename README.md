@@ -78,6 +78,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 
 ## MIDI Tools & Libraries
 
+* [bipluk](https://bipluk.com/) - a browser-based Web MIDI librarian for backing up and restoring SysEx patch banks from hardware synthesizers.
 * [Gingoduino](https://github.com/sauloverissimo/gingoduino) - music theory engine for embedded systems with MIDI 1.0/2.0 UMP support.
 * [JJazzLab](https://github.com/jjazzboss/JJazzLab) - a complete Midi-based framework for automatic backing tracks generation.
 * [Midifile](http://midifile.sapp.org/) - C++ library for parsing Standard MIDI Files.
