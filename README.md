@@ -92,6 +92,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 ## Music Notation
 
 * [Abjad](http://abjad.mbrsi.org/) - a Python API for Formalized Score Control, based on Lilypond.
+* [CapoChart](https://capochart.com) - a browser tool that transposes the chord symbols on an existing chord chart PDF or scan in place, keeping the printed layout, and finds the easiest capo position for a key.
 * [ChordMark](https://chordmark.netlify.app/) - a text-based notation format for lyrics, chords and rhythm.
 * [Denemo](http://www.denemo.org/) - a free music notation editor based on Lilypond.
 * [Digital Music Stand](https://github.com/PatWie/digitalmusicstand) - a free web app for displaying sheet music.
