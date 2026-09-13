@@ -46,6 +46,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 ## Audio Tools
 
 * [Auralytics](https://github.com/WengYiNing/Auralytics) - an open-source personal Spotify analytics tool.
+* [BPM Tempo Toolkit](https://github.com/j022315051/bpm-tempo-toolkit) - dependency-free BPM conversions, tap-tempo logic, a browser demo, and reusable reference data.
 * [Beets](http://beets.io/) - a powerful command-line music organizer and manipulator.
 * [Cecilia](https://github.com/belangeo/cecilia5) - a Pyo-based graphical environment for music and signal processing.
 * [cyanrip](https://github.com/atomnuker/cyanrip) - rips and encodes standard audio CDs with the least effort required from user. Cross platform.
