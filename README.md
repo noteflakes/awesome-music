@@ -84,6 +84,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Midimonster](https://github.com/cbdevnet/midimonster) - universal control and translation tool for most show control protocols.
 * [mido](https://github.com/mido/mido) - Python library for working with MIDI messages and ports.
 * [mididings](https://github.com/mididings/mididings) - A Python-based MIDI router and processor for Linux and macOS
+* [MP3 to MIDI Tool](https://mp3tomiditool.com/) - converts clear monophonic MP3 and WAV melodies into downloadable MIDI files locally in the browser.
 * [Polyrhythmix](http://github.com/dredozubov/polyrhythmix) - MIDI drums
   generator, designed for polyrhythmic parts
 * [stagedings](https://github.com/mididings/stagedings) - An UI and API for mididings
