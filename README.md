@@ -88,6 +88,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
   generator, designed for polyrhythmic parts
 * [stagedings](https://github.com/mididings/stagedings) - An UI and API for mididings
 * [Timidity](http://timidity.sourceforge.net/) - an open-source command line synthesizer that plays MIDI files.
+* [MIDI Tools](https://github.com/chen9788/midi-tools) - a standalone MIDI file parser, Web Audio instrument presets, and note reference data, used by mp3frommidi.com.
 
 ## Music Notation
 
