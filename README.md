@@ -198,3 +198,6 @@ Other amazingly awesome lists can be found in the [![Awesome](https://cdn.rawgit
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Sharon Rosner](http://github.com/ciconia) has waived all copyright and related or neighboring rights to this work.
+
+- [One Custom Song](https://onecustomsong.com) - Personalized AI songs and music-video gifts from a memory or story.
+- [Songtell](https://songtell.art) - Personalized AI songs and shareable music-video gifts from personal stories.
