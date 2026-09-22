@@ -78,6 +78,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 
 ## MIDI Tools & Libraries
 
+* [audio-to-midi-engine](https://github.com/x15987856/audio-to-midi-engine) - Zero-dependency JavaScript pitch tracking (YIN) and Standard MIDI File writing for turning audio into MIDI.
 * [Gingoduino](https://github.com/sauloverissimo/gingoduino) - music theory engine for embedded systems with MIDI 1.0/2.0 UMP support.
 * [JJazzLab](https://github.com/jjazzboss/JJazzLab) - a complete Midi-based framework for automatic backing tracks generation.
 * [Midifile](http://midifile.sapp.org/) - C++ library for parsing Standard MIDI Files.
