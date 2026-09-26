@@ -118,6 +118,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Python-ly](https://pypi.python.org/pypi/python-ly) - a tool and library for manipulating LilyPond files.
 * [Ripple](https://github.com/ciconia/ripple/) - DRY for Lilypond - generate scores and parts with minimal fuss.
 * [Scorelib](http://scorelib.sapp.org/) - a C++ library for parsing SCORE data files.
+* [Strumfolio](https://strumfolio.com) - an installable web app for reading, transposing and editing ChordPro chord charts, offline once a song has been opened.
 * [Tbon](https://github.com/Michael-F-Ellis/tbon) - Typographic Beat-Oriented Notation for music.
 * [Unison](https://unisonofficial.com/html/user-documentation.html?title=unison-editor) - Proprietary software for creating music score with words.
 * [VectorScore](https://github.com/DrakeB1234/VectorScore) - Lightweight, SVG-based music notation library for TypeScript under MIT license.
