@@ -57,6 +57,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Lame](http://lame.sourceforge.net/) - a high quality, free and open-source MP3 encoder.
 * [lltag](https://github.com/bgoglin/lltag) - automatic command-line mp3/ogg/flac file tagger and renamer.
 * [matchering](https://github.com/sergree/matchering) - сontainerized web application and library for automated reference audio mastering.
+* [Mooziac](https://github.com/shirkeharsh/mooziac) - lightweight native Swift menu bar player for YouTube Music and local FLAC/lossless audio with trackpad edge gestures and synced lyrics.
 * [MusicBrainz](https://musicbrainz.org) - Open Encyclopedia for Music information and Metadata, providing a unique ID for everything
 * [Rubyripper](https://github.com/bleskodev/rubyripper) - is a secure digital audio extraction application ("cd ripper") for Unix-like operating systems.
 * [SoX](http://sox.sourceforge.net/) - a free open-source command line utility for playing, converting and manipulating audio files.
