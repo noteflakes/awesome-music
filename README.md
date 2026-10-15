@@ -61,6 +61,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Rubyripper](https://github.com/bleskodev/rubyripper) - is a secure digital audio extraction application ("cd ripper") for Unix-like operating systems.
 * [SoX](http://sox.sourceforge.net/) - a free open-source command line utility for playing, converting and manipulating audio files.
 * [split2flac](https://github.com/ftrvxmtrx/split2flac) - split flac/ape/wv/wav + cue sheet into separate tracks
+* [StemMaker](https://github.com/Elospeed/StemMaker) - free, open-source Windows tool that converts MP3, WAV or FLAC tracks into Traktor stem files (.stem.mp4) using Demucs, locally on the CPU.
 * [Whipper](https://github.com/JoeLametta/whipper) - Python CD-DA ripper preferring accuracy over speed.
 * [X Audio Copy](https://github.com/giorgiofranceschi/xaudiocopy) - GTK and GNOME application for ripping CD-Audio and encoding in lossy and lossless audio formats.
 
