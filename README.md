@@ -60,6 +60,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [MusicBrainz](https://musicbrainz.org) - Open Encyclopedia for Music information and Metadata, providing a unique ID for everything
 * [Rubyripper](https://github.com/bleskodev/rubyripper) - is a secure digital audio extraction application ("cd ripper") for Unix-like operating systems.
 * [SoX](http://sox.sourceforge.net/) - a free open-source command line utility for playing, converting and manipulating audio files.
+* [Sonara](https://github.com/vajrangmiriyala-tech/Sonara) - Free, open-source music player for Mac with offline downloads, synced lyrics, radio and charts.
 * [split2flac](https://github.com/ftrvxmtrx/split2flac) - split flac/ape/wv/wav + cue sheet into separate tracks
 * [Whipper](https://github.com/JoeLametta/whipper) - Python CD-DA ripper preferring accuracy over speed.
 * [X Audio Copy](https://github.com/giorgiofranceschi/xaudiocopy) - GTK and GNOME application for ripping CD-Audio and encoding in lossy and lossless audio formats.
