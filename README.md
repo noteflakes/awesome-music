@@ -169,6 +169,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Four Score and More](https://fourscoreandmore.org/) - Tailored music theory exercises based on scores.
 * [musictheory.net](https://www.musictheory.net) - Lessons and exercises
 * [OpenMusicTheory](http://openmusictheory.com/) - a growing, online "textbook" for music theory and aural skills.
+* [Plastic Circle of Fifths](https://plastic.audio/circle-of-fifths/) - Interactive circle of fifths: tap a key to hear it and see its sharps, flats and relative minor.
 * [Theorytab](https://www.hooktheory.com/theorytab) - a database of songs with their chord functions.
 
 ## Standards
