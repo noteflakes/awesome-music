@@ -59,6 +59,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [matchering](https://github.com/sergree/matchering) - сontainerized web application and library for automated reference audio mastering.
 * [MusicBrainz](https://musicbrainz.org) - Open Encyclopedia for Music information and Metadata, providing a unique ID for everything
 * [Rubyripper](https://github.com/bleskodev/rubyripper) - is a secure digital audio extraction application ("cd ripper") for Unix-like operating systems.
+* [Sandy Music Lab Tools](https://github.com/davidsandyofficial/sandy-music-lab-tools) - Free, open-source browser tools for guitarists: chord transposer, delay time calculator, string gauge finder and pedal power calculator.
 * [SoX](http://sox.sourceforge.net/) - a free open-source command line utility for playing, converting and manipulating audio files.
 * [split2flac](https://github.com/ftrvxmtrx/split2flac) - split flac/ape/wv/wav + cue sheet into separate tracks
 * [Whipper](https://github.com/JoeLametta/whipper) - Python CD-DA ripper preferring accuracy over speed.
