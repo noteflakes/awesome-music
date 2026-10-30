@@ -92,6 +92,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 ## Music Notation
 
 * [Abjad](http://abjad.mbrsi.org/) - a Python API for Formalized Score Control, based on Lilypond.
+* [Campfire](https://campfire-songbook.com/) - a free, open-source ChordPro songbook and setlist app for Android, iOS, desktop and the web.
 * [ChordMark](https://chordmark.netlify.app/) - a text-based notation format for lyrics, chords and rhythm.
 * [Denemo](http://www.denemo.org/) - a free music notation editor based on Lilypond.
 * [Digital Music Stand](https://github.com/PatWie/digitalmusicstand) - a free web app for displaying sheet music.
