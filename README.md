@@ -45,6 +45,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 
 ## Audio Tools
 
+* [AudioLens](https://github.com/SimZhou/vscode-audiolens) - a VS Code extension for audio playback, per-channel waveforms, spectrograms and selection analysis.
 * [Auralytics](https://github.com/WengYiNing/Auralytics) - an open-source personal Spotify analytics tool.
 * [Beets](http://beets.io/) - a powerful command-line music organizer and manipulator.
 * [Cecilia](https://github.com/belangeo/cecilia5) - a Pyo-based graphical environment for music and signal processing.
