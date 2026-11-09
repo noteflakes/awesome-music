@@ -20,6 +20,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
   * [Related lists](#related-lists)
 
 ## Audio Editing
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Minimal native macOS Now Playing widget beside the Dock.
 
 * [Audacity](https://github.com/audacity/audacity) - a free, cross-platform digital audio editor.
 * [Ardour](http://ardour.org/) - a cross-platform digital audio workstation emphasizing audio recording.
