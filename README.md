@@ -169,6 +169,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Four Score and More](https://fourscoreandmore.org/) - Tailored music theory exercises based on scores.
 * [musictheory.net](https://www.musictheory.net) - Lessons and exercises
 * [OpenMusicTheory](http://openmusictheory.com/) - a growing, online "textbook" for music theory and aural skills.
+* [PianoML](https://pianoml.org) - open-source web app for practising piano with a MIDI keyboard: graded scores, MusicXML/MIDI/PDF import, play-along and wait modes with accuracy feedback, and exercises in every key.
 * [Theorytab](https://www.hooktheory.com/theorytab) - a database of songs with their chord functions.
 
 ## Standards
