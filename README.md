@@ -167,6 +167,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 
 * [Artusi](https://www.artusi.xyz) - Interactive music theory exercises.
 * [Four Score and More](https://fourscoreandmore.org/) - Tailored music theory exercises based on scores.
+* [FretMaster Studio](https://github.com/srain0626/fretmaster-studio) - Open-source electric guitar and fretboard harmony learning studio with real-time Web Audio pitch detection.
 * [musictheory.net](https://www.musictheory.net) - Lessons and exercises
 * [OpenMusicTheory](http://openmusictheory.com/) - a growing, online "textbook" for music theory and aural skills.
 * [Theorytab](https://www.hooktheory.com/theorytab) - a database of songs with their chord functions.
