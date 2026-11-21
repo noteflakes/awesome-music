@@ -56,7 +56,8 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Koel](https://github.com/phanan/koel) - an open-source personal audio streaming server.
 * [Lame](http://lame.sourceforge.net/) - a high quality, free and open-source MP3 encoder.
 * [lltag](https://github.com/bgoglin/lltag) - automatic command-line mp3/ogg/flac file tagger and renamer.
-* [matchering](https://github.com/sergree/matchering) - сontainerized web application and library for automated reference audio mastering.
+* [matchering](https://github.com/sergree/matchering) - ?ontainerized web application and library for automated reference audio mastering.
+* [motu-ui](https://github.com/dvinerlove/motu-ui) - unofficial Windows control panel for MOTU M2/M4/M6 audio interfaces, with live meters and driver-level controls.
 * [MusicBrainz](https://musicbrainz.org) - Open Encyclopedia for Music information and Metadata, providing a unique ID for everything
 * [Rubyripper](https://github.com/bleskodev/rubyripper) - is a secure digital audio extraction application ("cd ripper") for Unix-like operating systems.
 * [SoX](http://sox.sourceforge.net/) - a free open-source command line utility for playing, converting and manipulating audio files.
@@ -70,7 +71,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [cellist/Lilypond-Sheet-Music](https://github.com/cellist/Lilypond-Sheet-Music) - a collection of music typeset with lilypond (mostly chamber music and music for cello).
 * [ciconia/music](https://github.com/ciconia/music) - a collection of mostly baroque music, lots of sacred works by J. S. Bach, coded in lilypond/ripple.
 * [CPDL](http://www.cpdl.org/) - the choral public domain library contains more than 20K free scores of vocal music.
-* [Éditions Nicolas Sceaux](https://github.com/nsceaux/nenuvar) - baroque music scores (mainly French music), typeset using lilypond.
+* [?ditions Nicolas Sceaux](https://github.com/nsceaux/nenuvar) - baroque music scores (mainly French music), typeset using lilypond.
 * [IMSLP](http://imslp.org/) - the International Music Score Library Project is the largest collection of public domain scores and parts on the web.
 * [Lavender Blue Open-Scores](https://github.com/madrisan/open-scores) - open scores for piano encoded using lilypond.
 * [Mutopia](https://github.com/MutopiaProject/MutopiaProject) - sheet music based on editions in the public domain.
@@ -95,7 +96,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [ChordMark](https://chordmark.netlify.app/) - a text-based notation format for lyrics, chords and rhythm.
 * [Denemo](http://www.denemo.org/) - a free music notation editor based on Lilypond.
 * [Digital Music Stand](https://github.com/PatWie/digitalmusicstand) - a free web app for displaying sheet music.
-* [Jan Angermüller's music fonts page](http://elbsound.studio/music_fonts.php) - A listing and visual comparison of different music fonts.
+* [Jan Angerm?ller's music fonts page](http://elbsound.studio/music_fonts.php) - A listing and visual comparison of different music fonts.
 * [Frescobaldi](https://github.com/wbsoft/frescobaldi) - a free Lilypond sheet music editor.
 * [Guido](http://guidolib.sourceforge.net/) - a generic, portable library and API for the graphical rendering of musical scores.
 * [Hacklily](https://www.hacklily.org) - online LilyPond-based sheet music editor (with optional GitHub integration).
