@@ -49,6 +49,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Beets](http://beets.io/) - a powerful command-line music organizer and manipulator.
 * [Cecilia](https://github.com/belangeo/cecilia5) - a Pyo-based graphical environment for music and signal processing.
 * [cyanrip](https://github.com/atomnuker/cyanrip) - rips and encodes standard audio CDs with the least effort required from user. Cross platform.
+* [EvPlayer](https://github.com/Evire1337/evplayer) - a free music player for SoundCloud, YouTube Music and local files in one library, with synced lyrics, a parametric equalizer and offline playback; a native Rust build for Windows and a Tauri build for Linux and Android.
 * [fre:ac](https://github.com/enzo1982/freac) - free audio converter. It supports audio CD ripping and tag editing.
 * [Jack](https://github.com/jack-cli-cd-ripper/jack) - command-line CD ripper.
 * [K3b](https://github.com/KDE/k3b) - is a full-featured CD/DVD/Blu-ray burning and ripping application.
