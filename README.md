@@ -45,6 +45,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 
 ## Audio Tools
 
+* [AIAC Audio Tools](https://aiac.app/audio-tools/) - free browser-local audio DSP suite including ITU-R BS.1770-4 LUFS metering, FFT fake-FLAC forensics, key/chord detection, and a Rust/WebAssembly DAW.
 * [Auralytics](https://github.com/WengYiNing/Auralytics) - an open-source personal Spotify analytics tool.
 * [Beets](http://beets.io/) - a powerful command-line music organizer and manipulator.
 * [Cecilia](https://github.com/belangeo/cecilia5) - a Pyo-based graphical environment for music and signal processing.
