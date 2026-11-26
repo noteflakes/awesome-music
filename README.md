@@ -42,6 +42,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [PortAudio](http://www.portaudio.com/) - a free, cross-platform, open-source, audio I/O library.
 * [RustAudio](https://github.com/RustAudio) - an aggregate of free and useful Audio, DSP and music libraries written in Rust.
 * [Soundpipe](https://pbat.ch/proj/soundpipe.html) - a lightweight DSP library written in C.
+* [Yuby](https://github.com/gaborszanto/yubysdk) - a fast, low-latency, cross-platform audio engine with player, effects, analysis, and stem separation.
 
 ## Audio Tools
 
