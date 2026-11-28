@@ -115,6 +115,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [NOTATIO](http://notat.io/) - a forum devoted to the practice of music notation.
 * [OpenLilyLib](https://github.com/openlilylib/snippets/) - LilyPond tools - snippets, templates, and extensions.
 * [OpenSheetMusicDisplay](https://github.com/opensheetmusicdisplay/opensheetmusicdisplay) - Typescript library for rendering MusicXML in the browser.
+* [Ploq](https://ploq.app) - real-time collaboration for MuseScore: several people edit the same score at once, with live cursors.
 * [Python-ly](https://pypi.python.org/pypi/python-ly) - a tool and library for manipulating LilyPond files.
 * [Ripple](https://github.com/ciconia/ripple/) - DRY for Lilypond - generate scores and parts with minimal fuss.
 * [Scorelib](http://scorelib.sapp.org/) - a C++ library for parsing SCORE data files.
